@@ -1,9 +1,0 @@
-<h1>Sublime Text 2 config</h1>
-<p>Settings, themes and snippets for Sublime Text 2</p>
-
-<h1>Installation</h1>
-<ol>
-	<li>Install <a href="http://www.sublimetext.com/2" target+"_blank">Sublime Text 2</a></li>
-	<li>In the terminal <code>cd %AppData%\Sublime Text 2\Packages</code></li>
-	<li>In the terminal <code>git clone https://github.com/ryanmargheriti/SublimeConfig .</code></li>
-</ol>
