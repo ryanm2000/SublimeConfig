@@ -1,0 +1,9 @@
+<h1>Sublime Text 2 config</h1>
+<p>Settings, themes and snippets for Sublime Text 2</p>
+
+<h1>Installation</h1>
+<ol>
+	<li>Install <a href="http://www.sublimetext.com/2" target+"_blank">Sublime Text 2</a></li>
+	<li>Goto Sublime Text 2 packages directory <code>%AppData%\Sublime Text 2\Packages\User</code></li>
+	<li>Finish these docs referencing: https://github.com/ckelly/sublime-settings</li>
+</ol>
