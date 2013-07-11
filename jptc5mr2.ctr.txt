@@ -1,0 +1,453 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   InactivePanes_/Color Scheme - Default/Twilight.tmTheme
+#	new file:   InactivePanes_/PlainTasks/tasks.hidden-tmTheme
+#	new file:   Package Control
+#	modified:   README.md
+#	deleted:    Theme - Nexus/.gitignore
+#	deleted:    Theme - Nexus/Nexus.sublime-theme
+#	deleted:    Theme - Nexus/Nexus.tmTheme
+#	deleted:    Theme - Nexus/README.md
+#	deleted:    Theme - Nexus/Widget - Nexus.stTheme
+#	deleted:    Theme - Nexus/Widget - Nexus.sublime-settings
+#	deleted:    Theme - Nexus/assets/Untitled-1.png
+#	deleted:    Theme - Nexus/assets/arrow-down-hover.png
+#	deleted:    Theme - Nexus/assets/arrow-down.png
+#	deleted:    Theme - Nexus/assets/arrow-right-hover.png
+#	deleted:    Theme - Nexus/assets/arrow-right.png
+#	deleted:    Theme - Nexus/assets/btn-large-active.png
+#	deleted:    Theme - Nexus/assets/btn-large.png
+#	deleted:    Theme - Nexus/assets/btn-small.png
+#	deleted:    Theme - Nexus/assets/default/overlay-bg.png
+#	deleted:    Theme - Nexus/assets/default/qp-row-selected.png
+#	deleted:    Theme - Nexus/assets/default/qp-row.png
+#	deleted:    Theme - Nexus/assets/default/sidebar-close.png
+#	deleted:    Theme - Nexus/assets/default/sidebar-dirty.png
+#	deleted:    Theme - Nexus/assets/fold.png
+#	deleted:    Theme - Nexus/assets/folder/group-closed-hover.png
+#	deleted:    Theme - Nexus/assets/folder/group-closed-selected.png
+#	deleted:    Theme - Nexus/assets/folder/group-closed.png
+#	deleted:    Theme - Nexus/assets/folder/group-open-hover.png
+#	deleted:    Theme - Nexus/assets/folder/group-open-selected.png
+#	deleted:    Theme - Nexus/assets/folder/group-open.png
+#	deleted:    Theme - Nexus/assets/icon-buffer-off.png
+#	deleted:    Theme - Nexus/assets/icon-buffer-on.png
+#	deleted:    Theme - Nexus/assets/icon-case-off.png
+#	deleted:    Theme - Nexus/assets/icon-case-on.png
+#	deleted:    Theme - Nexus/assets/icon-context-off.png
+#	deleted:    Theme - Nexus/assets/icon-context-on.png
+#	deleted:    Theme - Nexus/assets/icon-highlight-off.png
+#	deleted:    Theme - Nexus/assets/icon-highlight-on.png
+#	deleted:    Theme - Nexus/assets/icon-preserve-case-off.png
+#	deleted:    Theme - Nexus/assets/icon-preserve-case-on.png
+#	deleted:    Theme - Nexus/assets/icon-reg-exp-off.png
+#	deleted:    Theme - Nexus/assets/icon-regex-off.png
+#	deleted:    Theme - Nexus/assets/icon-regex-on.png
+#	deleted:    Theme - Nexus/assets/icon-reverse-off.png
+#	deleted:    Theme - Nexus/assets/icon-reverse-on.png
+#	deleted:    Theme - Nexus/assets/icon-selection-off.png
+#	deleted:    Theme - Nexus/assets/icon-selection-on.png
+#	deleted:    Theme - Nexus/assets/icon-whole-word-off.png
+#	deleted:    Theme - Nexus/assets/icon-whole-word-on.png
+#	deleted:    Theme - Nexus/assets/icon-wrap-off.png
+#	deleted:    Theme - Nexus/assets/icon-wrap-on.png
+#	deleted:    Theme - Nexus/assets/panel-bg.png
+#	deleted:    Theme - Nexus/assets/row-active-modified.png
+#	deleted:    Theme - Nexus/assets/row-active.png
+#	deleted:    Theme - Nexus/assets/row-inactive-modified.png
+#	deleted:    Theme - Nexus/assets/scrollbar/normal_bar_corner.png
+#	deleted:    Theme - Nexus/assets/scrollbar/normal_bar_horizontal.png
+#	deleted:    Theme - Nexus/assets/scrollbar/normal_bar_vertical.png
+#	deleted:    Theme - Nexus/assets/scrollbar/normal_thumb_horizontal.png
+#	deleted:    Theme - Nexus/assets/scrollbar/normal_thumb_vertical.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_bar_horizontal.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_bar_vertical.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_dark_thumb_horizontal.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_dark_thumb_vertical.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_thumb_horizontal.png
+#	deleted:    Theme - Nexus/assets/scrollbar/overlay_thumb_vertical.png
+#	deleted:    Theme - Nexus/assets/status-bar-bg.png
+#	deleted:    Theme - Nexus/assets/tab-active-modified.png
+#	deleted:    Theme - Nexus/assets/tab-active.png
+#	deleted:    Theme - Nexus/assets/tab-button-close-dirty.png
+#	deleted:    Theme - Nexus/assets/tab-button-close-hover.png
+#	deleted:    Theme - Nexus/assets/tab-button-close.png
+#	deleted:    Theme - Nexus/assets/tab-button-dirty.png
+#	deleted:    Theme - Nexus/assets/tab-hover-dirty.png
+#	deleted:    Theme - Nexus/assets/tab-hover.png
+#	deleted:    Theme - Nexus/assets/tab-inactive-modified.png
+#	deleted:    Theme - Nexus/assets/tab-inactive.png
+#	deleted:    Theme - Nexus/assets/tabset-bg.png
+#	deleted:    Theme - Nexus/assets/text-field.png
+#	deleted:    Theme - Nexus/assets/tooltip.png
+#	deleted:    Theme - Nexus/nexus-theme.png
+#	deleted:    Theme - Nexus/package-metadata.json
+#	deleted:    Theme - Soda/README.md
+#	deleted:    Theme - Soda/Soda Dark.sublime-theme
+#	deleted:    Theme - Soda/Soda Dark/.gitignore
+#	deleted:    Theme - Soda/Soda Dark/Widget - Soda Dark.stTheme
+#	deleted:    Theme - Soda/Soda Dark/Widget - Soda Dark.sublime-settings
+#	deleted:    Theme - Soda/Soda Dark/autocomplete-row-selected.png
+#	deleted:    Theme - Soda/Soda Dark/autocomplete-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/bookmark.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-left-on.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-left-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-left.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-left@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-middle-on.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-middle-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-middle.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-middle@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-right-on.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-right-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-right.png
+#	deleted:    Theme - Soda/Soda Dark/btn-group-right@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-large-on.png
+#	deleted:    Theme - Soda/Soda Dark/btn-large-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-large.png
+#	deleted:    Theme - Soda/Soda Dark/btn-large@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-small-on.png
+#	deleted:    Theme - Soda/Soda Dark/btn-small-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/btn-small.png
+#	deleted:    Theme - Soda/Soda Dark/btn-small@2x.png
+#	deleted:    Theme - Soda/Soda Dark/circle.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-active.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-active@2x.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-hover.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-inactive.png
+#	deleted:    Theme - Soda/Soda Dark/classic/tab-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Dark/dot.png
+#	deleted:    Theme - Soda/Soda Dark/file-close-hover.png
+#	deleted:    Theme - Soda/Soda Dark/file-close-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/file-close-selected.png
+#	deleted:    Theme - Soda/Soda Dark/file-close-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/file-close.png
+#	deleted:    Theme - Soda/Soda Dark/file-close@2x.png
+#	deleted:    Theme - Soda/Soda Dark/file-dirty-selected.png
+#	deleted:    Theme - Soda/Soda Dark/file-dirty-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/file-dirty.png
+#	deleted:    Theme - Soda/Soda Dark/file-dirty@2x.png
+#	deleted:    Theme - Soda/Soda Dark/fold-closed-hover.png
+#	deleted:    Theme - Soda/Soda Dark/fold-closed-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/fold-closed.png
+#	deleted:    Theme - Soda/Soda Dark/fold-closed@2x.png
+#	deleted:    Theme - Soda/Soda Dark/fold-open-hover.png
+#	deleted:    Theme - Soda/Soda Dark/fold-open-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/fold-open.png
+#	deleted:    Theme - Soda/Soda Dark/fold-open@2x.png
+#	deleted:    Theme - Soda/Soda Dark/fold.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed-hover.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed-selected.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed.png
+#	deleted:    Theme - Soda/Soda Dark/group-closed@2x.png
+#	deleted:    Theme - Soda/Soda Dark/group-open-hover.png
+#	deleted:    Theme - Soda/Soda Dark/group-open-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/group-open-selected.png
+#	deleted:    Theme - Soda/Soda Dark/group-open-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/group-open.png
+#	deleted:    Theme - Soda/Soda Dark/group-open@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-buffer-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-buffer-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-buffer-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-buffer-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-case-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-case-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-case-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-case-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-context-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-context-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-context-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-context-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-highlight-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-highlight-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-highlight-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-highlight-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-preserve-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-preserve-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-preserve-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-preserve-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-regex-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-regex-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-regex-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-regex-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-reverse-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-reverse-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-reverse-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-reverse-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-selection-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-selection-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-selection-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-selection-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-word-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-word-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-word-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-word-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-wrap-off.png
+#	deleted:    Theme - Soda/Soda Dark/icon-wrap-off@2x.png
+#	deleted:    Theme - Soda/Soda Dark/icon-wrap-on.png
+#	deleted:    Theme - Soda/Soda Dark/icon-wrap-on@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-dark-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-dark-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-dark-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-dark-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-scrollbar-horizontal.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-scrollbar-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-scrollbar-vertical.png
+#	deleted:    Theme - Soda/Soda Dark/overlay-scrollbar-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Dark/panel-background.png
+#	deleted:    Theme - Soda/Soda Dark/panel-background@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-background-fix.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-background-fix@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-background.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-background@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-row-selected.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-row.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-row@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-sections-fix.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-sections-fix@2x.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-sections.png
+#	deleted:    Theme - Soda/Soda Dark/quick-panel-sections@2x.png
+#	deleted:    Theme - Soda/Soda Dark/sidebar-bg.png
+#	deleted:    Theme - Soda/Soda Dark/sidebar-bg@2x.png
+#	deleted:    Theme - Soda/Soda Dark/sidebar-row-selected.png
+#	deleted:    Theme - Soda/Soda Dark/sidebar-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Dark/standard-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Dark/standard-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Dark/standard-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Dark/standard-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-corner.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-corner@2x.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-horizontal.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-vertical.png
+#	deleted:    Theme - Soda/Soda Dark/standard-scrollbar-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Dark/status-bar-background.png
+#	deleted:    Theme - Soda/Soda Dark/status-bar-background@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-active.png
+#	deleted:    Theme - Soda/Soda Dark/tab-active@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-hover.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-inactive.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-pressed.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close-pressed@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close.png
+#	deleted:    Theme - Soda/Soda Dark/tab-close@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-dirty-inactive.png
+#	deleted:    Theme - Soda/Soda Dark/tab-dirty-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-dirty.png
+#	deleted:    Theme - Soda/Soda Dark/tab-dirty@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-highlight-inactive.png
+#	deleted:    Theme - Soda/Soda Dark/tab-highlight-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-highlight.png
+#	deleted:    Theme - Soda/Soda Dark/tab-highlight@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-hover.png
+#	deleted:    Theme - Soda/Soda Dark/tab-hover@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tab-inactive.png
+#	deleted:    Theme - Soda/Soda Dark/tab-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tabset-background.png
+#	deleted:    Theme - Soda/Soda Dark/tabset-background@2x.png
+#	deleted:    Theme - Soda/Soda Dark/text-field.png
+#	deleted:    Theme - Soda/Soda Dark/text-field@2x.png
+#	deleted:    Theme - Soda/Soda Dark/tooltip.png
+#	deleted:    Theme - Soda/Soda Dark/tooltip@2x.png
+#	deleted:    Theme - Soda/Soda Light.sublime-theme
+#	deleted:    Theme - Soda/Soda Light/.gitignore
+#	deleted:    Theme - Soda/Soda Light/Widget - Soda Light.stTheme
+#	deleted:    Theme - Soda/Soda Light/Widget - Soda Light.sublime-settings
+#	deleted:    Theme - Soda/Soda Light/autocomplete-row-selected.png
+#	deleted:    Theme - Soda/Soda Light/autocomplete-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/bookmark.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-left-on.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-left-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-left.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-left@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-middle-on.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-middle-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-middle.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-middle@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-right-on.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-right-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-right.png
+#	deleted:    Theme - Soda/Soda Light/btn-group-right@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-large-on.png
+#	deleted:    Theme - Soda/Soda Light/btn-large-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-large.png
+#	deleted:    Theme - Soda/Soda Light/btn-large@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-small-on.png
+#	deleted:    Theme - Soda/Soda Light/btn-small-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/btn-small.png
+#	deleted:    Theme - Soda/Soda Light/btn-small@2x.png
+#	deleted:    Theme - Soda/Soda Light/circle.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-active.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-active@2x.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-hover.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-inactive.png
+#	deleted:    Theme - Soda/Soda Light/classic/tab-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Light/dot.png
+#	deleted:    Theme - Soda/Soda Light/file-close-hover.png
+#	deleted:    Theme - Soda/Soda Light/file-close-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/file-close-selected.png
+#	deleted:    Theme - Soda/Soda Light/file-close-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/file-close.png
+#	deleted:    Theme - Soda/Soda Light/file-close@2x.png
+#	deleted:    Theme - Soda/Soda Light/file-dirty-selected.png
+#	deleted:    Theme - Soda/Soda Light/file-dirty-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/file-dirty.png
+#	deleted:    Theme - Soda/Soda Light/file-dirty@2x.png
+#	deleted:    Theme - Soda/Soda Light/fold-closed-hover.png
+#	deleted:    Theme - Soda/Soda Light/fold-closed-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/fold-closed.png
+#	deleted:    Theme - Soda/Soda Light/fold-closed@2x.png
+#	deleted:    Theme - Soda/Soda Light/fold-open-hover.png
+#	deleted:    Theme - Soda/Soda Light/fold-open-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/fold-open.png
+#	deleted:    Theme - Soda/Soda Light/fold-open@2x.png
+#	deleted:    Theme - Soda/Soda Light/fold.png
+#	deleted:    Theme - Soda/Soda Light/group-closed-hover.png
+#	deleted:    Theme - Soda/Soda Light/group-closed-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/group-closed-selected.png
+#	deleted:    Theme - Soda/Soda Light/group-closed-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/group-closed.png
+#	deleted:    Theme - Soda/Soda Light/group-closed@2x.png
+#	deleted:    Theme - Soda/Soda Light/group-open-hover.png
+#	deleted:    Theme - Soda/Soda Light/group-open-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/group-open-selected.png
+#	deleted:    Theme - Soda/Soda Light/group-open-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/group-open.png
+#	deleted:    Theme - Soda/Soda Light/group-open@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-buffer-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-buffer-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-buffer-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-buffer-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-case-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-case-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-case-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-case-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-context-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-context-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-context-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-context-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-highlight-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-highlight-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-highlight-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-highlight-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-preserve-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-preserve-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-preserve-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-preserve-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-regex-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-regex-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-regex-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-regex-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-reverse-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-reverse-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-reverse-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-reverse-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-selection-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-selection-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-selection-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-selection-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-word-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-word-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-word-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-word-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-wrap-off.png
+#	deleted:    Theme - Soda/Soda Light/icon-wrap-off@2x.png
+#	deleted:    Theme - Soda/Soda Light/icon-wrap-on.png
+#	deleted:    Theme - Soda/Soda Light/icon-wrap-on@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-dark-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Light/overlay-dark-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-dark-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Light/overlay-dark-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Light/overlay-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Light/overlay-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-scrollbar-horizontal.png
+#	deleted:    Theme - Soda/Soda Light/overlay-scrollbar-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Light/overlay-scrollbar-vertical.png
+#	deleted:    Theme - Soda/Soda Light/overlay-scrollbar-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Light/panel-background.png
+#	deleted:    Theme - Soda/Soda Light/panel-background@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-background-fix.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-background-fix@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-background.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-background@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-row-selected.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-row.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-row@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-sections-fix.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-sections-fix@2x.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-sections.png
+#	deleted:    Theme - Soda/Soda Light/quick-panel-sections@2x.png
+#	deleted:    Theme - Soda/Soda Light/sidebar-bg.png
+#	deleted:    Theme - Soda/Soda Light/sidebar-bg@2x.png
+#	deleted:    Theme - Soda/Soda Light/sidebar-row-selected.png
+#	deleted:    Theme - Soda/Soda Light/sidebar-row-selected@2x.png
+#	deleted:    Theme - Soda/Soda Light/standard-puck-horizontal.png
+#	deleted:    Theme - Soda/Soda Light/standard-puck-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Light/standard-puck-vertical.png
+#	deleted:    Theme - Soda/Soda Light/standard-puck-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-corner.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-corner@2x.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-horizontal.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-horizontal@2x.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-vertical.png
+#	deleted:    Theme - Soda/Soda Light/standard-scrollbar-vertical@2x.png
+#	deleted:    Theme - Soda/Soda Light/status-bar-background.png
+#	deleted:    Theme - Soda/Soda Light/status-bar-background@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-active.png
+#	deleted:    Theme - Soda/Soda Light/tab-active@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-hover.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-inactive.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-pressed.png
+#	deleted:    Theme - Soda/Soda Light/tab-close-pressed@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-close.png
+#	deleted:    Theme - Soda/Soda Light/tab-close@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-dirty-inactive.png
+#	deleted:    Theme - Soda/Soda Light/tab-dirty-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-dirty.png
+#	deleted:    Theme - Soda/Soda Light/tab-dirty@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-highlight-inactive.png
+#	deleted:    Theme - Soda/Soda Light/tab-highlight-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-highlight.png
+#	deleted:    Theme - Soda/Soda Light/tab-highlight@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-hover.png
+#	deleted:    Theme - Soda/Soda Light/tab-hover@2x.png
+#	deleted:    Theme - Soda/Soda Light/tab-inactive.png
+#	deleted:    Theme - Soda/Soda Light/tab-inactive@2x.png
+#	deleted:    Theme - Soda/Soda Light/tabset-background.png
+#	deleted:    Theme - Soda/Soda Light/tabset-background@2x.png
+#	deleted:    Theme - Soda/Soda Light/text-field.png
+#	deleted:    Theme - Soda/Soda Light/text-field@2x.png
+#	deleted:    Theme - Soda/Soda Light/tooltip.png
+#	deleted:    Theme - Soda/Soda Light/tooltip@2x.png
+#	deleted:    Theme - Soda/package-metadata.json
+#	new file:   User/Distraction Free.sublime-settings
+#	deleted:    User/HTML.sublime-settings
+#	deleted:    User/LESS.sublime-settings
+#	new file:   User/Package Control.last-run
+#	modified:   User/Package Control.sublime-settings
+#	modified:   User/Preferences.sublime-settings
+#	deleted:    User/jquery-document-ready.sublime-snippet
+#	deleted:    User/jquery-selector.sublime-snippet
+#
+

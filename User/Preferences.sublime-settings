@@ -1,6 +1,35 @@
 {
-	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.backup",
+		"*.bak",
+		"*.dll",
+		"*.docx",
+		"*.exe",
+		"*.gif",
+		"*.ico",
+		"*.idb",
+		"*.jpeg",
+		"*.jpg",
+		"*.mov",
+		"*.mp3",
+		"*.mp4",
+		"*.pdf",
+		"*.png",
+		"*.psd",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.swf",
+		"*.xls",
+		"*.zargo*",
+		".DS_Store",
+		".gitkeep",
+		".gitignore"
+	],
 	"folder_exclude_patterns":
 	[
 		".git",
@@ -9,15 +38,15 @@
 		".svn",
 		"tmp"
 	],
-	"font_size": 13,
-	"ignored_packages":
+	"font_options":
 	[
-		"Vintage",
-		"Emmet",
-		"ZenCoding"
+		"subpixel_antialias"
 	],
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"mouse_wheel_switches_tabs": false,
 	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"translate_spaces_to_tabs": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"wrap_width": 0
 }
