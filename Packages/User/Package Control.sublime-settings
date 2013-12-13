@@ -2,11 +2,18 @@
 	"installed_packages":
 	[
 		"Can I Use",
+		"Handlebars",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
 		"InactivePanes",
+		"Jade",
+		"JSHint Gutter",
 		"LESS",
+		"Markdown Preview",
 		"Origami",
 		"Package Control",
 		"PlainTasks",
+		"SFTP",
 		"Smart Delete"
 	]
 }
