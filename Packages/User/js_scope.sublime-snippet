@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+(function(${1:exampleData}) {
+  "use strict";
+
+  function exampleFunction(fieldNum) {
+    // Do Stuff
+  }
+
+  if(weWantToWireSomeStuffUp) {
+    $('.wireUp').click(function() {
+      exampleFunction(fieldNum)
+    })
+  }
+
+
+}(window.${1:exampleData}));
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>scope</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

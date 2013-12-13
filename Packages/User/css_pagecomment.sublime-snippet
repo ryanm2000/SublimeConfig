@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[//
+// ${1:SECTION NAME}
+${2:// ${3:Comment}}
+// -----------------------------------------]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>//</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Page Comment</description>
+</snippet>
