@@ -8,12 +8,10 @@
   }
 
   if(weWantToWireSomeStuffUp) {
-    $('.wireUp').click(function() {
+    \$('.wireUp').click(function() {
       exampleFunction(fieldNum)
     })
   }
-
-
 }(window.${1:exampleData}));
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
