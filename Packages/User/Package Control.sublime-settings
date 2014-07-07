@@ -2,8 +2,15 @@
 	"installed_packages":
 	[
 		"4GL",
+		"AdvancedNewFile",
 		"AngularJS",
+		"AngularJS Snippets",
+		"Bootstrap 3 Snippets",
 		"Can I Use",
+		"ColorPicker",
+		"Emmet",
+		"Gist",
+		"GitGutter",
 		"Handlebars",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
@@ -18,7 +25,9 @@
 		"Pretty JSON",
 		"Sass",
 		"SFTP",
+		"SideBarEnhancements",
 		"Smart Delete",
+		"SublimeCodeIntel",
 		"Tomorrow Color Schemes"
 	]
 }
