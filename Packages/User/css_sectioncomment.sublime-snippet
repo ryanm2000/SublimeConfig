@@ -1,6 +1,7 @@
 <snippet>
     <content><![CDATA[// ${1:SECTION NAME}
-// -----------------------------------------]]></content>
+// -----------------------------------------
+  ${2}]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>//</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
