@@ -24,15 +24,13 @@
 		"*.pdf",
 		"*.png",
 		"*.psd",
-		"*.sublime-project",
 		"*.sublime-workspace",
 		"*.swf",
 		"*.scssc",
 		"*.xls",
 		"*.zargo*",
 		".DS_Store",
-		".gitkeep",
-		".gitignore"
+		".gitkeep"
 	],
 	"folder_exclude_patterns":
 	[
@@ -43,14 +41,13 @@
 		"tmp",
 		"node_modules",
 		".sass-cache",
-		".tmp",
-		"bower_components"
+		".tmp"
 	],
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 18,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -62,5 +59,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+	"scroll_past_end":true
 }
