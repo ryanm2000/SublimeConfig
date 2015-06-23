@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"4GL",
@@ -24,6 +27,8 @@
 		"PlainTasks",
 		"Pretty JSON",
 		"Sass",
+		"SCSS",
+		"SCSS Snippets",
 		"SFTP",
 		"SideBarEnhancements",
 		"Smart Delete",
