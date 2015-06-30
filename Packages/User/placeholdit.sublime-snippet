@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<img src="http://placehold.it/${1:w}x${2:h}/${3:background}/${4:foreground}${5:?text=${6:text}}" alt="${7:alt}">
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>placehold</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.html</scope> -->
+</snippet>
