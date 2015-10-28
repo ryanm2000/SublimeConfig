@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-import React from '../../vendor/react/react';
+'use strict';
+
+import React from 'react/react';
 ${1:import ${2:ModuleName} from '../${3:module-name}/${3:module-name}';}
 
 var ${4:VenueLayout} = React.createClass({
