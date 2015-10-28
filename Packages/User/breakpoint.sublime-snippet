@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+@include bp(${1:m}) {
+  ${2:property:value;}
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bp</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.scss</scope>
+</snippet>

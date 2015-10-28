@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<!-- Start Component: ${1:Name} -->
+<${2:div} class="${3}">
+  ${4}
+</${2:div}>
+<!-- End Component: ${1:Name} -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>comp</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.html</scope> -->
+</snippet>

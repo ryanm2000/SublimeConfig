@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<img src="http://lorempixel.com/${1:w}/${2:h}/${3:[abstract,animals,business,cats,city,food,nightlife,fashion,people,nature,sports,technics,transport]}/${7:[optional:1-10]}" alt="${8:alt}"${9}>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>placehold</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.html</scope> -->
+</snippet>

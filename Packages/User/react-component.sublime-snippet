@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+import React from '../../vendor/react/react';
+${1:import ${2:ModuleName} from '../${3:module-name}/${3:module-name}';}
+
+var ${4:VenueLayout} = React.createClass({
+  render: function() {
+    return (
+      ${5}
+    )
+  }
+});
+
+module.exports = ${4:VenueLayout};
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>react</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.javascript</scope> -->
+</snippet>
