@@ -3,19 +3,27 @@
 'use strict';
 
 import React from 'react/react';
-${1:import ${2:ModuleName} from '../${3:module-name}/${3:module-name}';}
 
-var ${4:VenueLayout} = React.createClass({
+var ${1:ComponentName} = React.createClass({
+  displayName : '${1:ComponentName}',
+  propTypes: {
+    '${2:title}': React.PropTypes.${3:string}
+  },
+  getDefaultProps: function() {
+    return({
+      ${2:title}: '${4}'
+    })
+  },
   render: function() {
     return (
-      ${5}
+      ${5:<div>
+        ${6}
+      </div>}
     )
   }
 });
 
-module.exports = ${4:VenueLayout};
-
-]]></content>
+module.exports = ${1:ComponentName};]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>react</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
