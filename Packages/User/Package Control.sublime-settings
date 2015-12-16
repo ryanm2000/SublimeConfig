@@ -11,19 +11,12 @@
 		"Babel",
 		"Babel Snippets",
 		"Bootstrap 3 Snippets",
-		"Can I Use",
-		"ColorPicker",
 		"EditorConfig",
 		"Emmet",
-		"Gist",
 		"GitGutter",
-		"Handlebars",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
-		"InactivePanes",
-		"Jade",
 		"JSHint Gutter",
-		"LESS",
 		"Markdown Preview",
 		"Origami",
 		"Package Control",
@@ -31,12 +24,9 @@
 		"Pretty JSON",
 		"Sass",
 		"SCSS",
-		"SCSS Snippets",
-		"SFTP",
 		"SideBarEnhancements",
 		"Smart Delete",
 		"SublimeCodeIntel",
-		"Theme - Spacegray",
-		"Tomorrow Color Schemes"
+		"Theme - Spacegray"
 	]
 }
